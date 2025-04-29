@@ -1,0 +1,501 @@
+Title,Year,Metascore,UserScore,Genres,Director,Runtime
+Three Colors: Red,1994-11-23,100.0,83.0,"Drama,Mystery,Romance",Krzysztof Kieslowski,99
+Dekalog (1988),1996-03-22,100.0,78.0,Drama,Krzysztof Kieslowski,572
+Fanny and Alexander (re-release),2004-05-21,100.0,83.0,Drama,Ingmar Bergman,188
+The Godfather,1972-03-24,100.0,93.0,"Crime,Drama",Francis Ford Coppola,175
+Notorious,1946-09-06,100.0,79.0,"Drama,Film-Noir,Mystery,Romance,Thriller",Alfred Hitchcock,101
+Citizen Kane,1941-09-04,100.0,83.0,"Drama,Mystery",Orson Welles,119
+Vertigo,1958-05-28,100.0,87.0,"Mystery,Romance,Thriller",Alfred Hitchcock,128
+Lawrence of Arabia (re-release),2002-09-20,100.0,86.0,"Adventure,Biography,Drama,War",David Lean,216
+Tokyo Story,1972-03-13,100.0,85.0,Drama,Yasujirô Ozu,136
+Rear Window,1954-09-01,100.0,87.0,"Drama,Mystery,Thriller",Alfred Hitchcock,112
+Boyhood,2014-07-11,100.0,76.0,Drama,Richard Linklater,165
+The Conformist,1970-10-22,100.0,73.0,Drama,Bernardo Bertolucci,107
+Casablanca,1943-01-23,100.0,87.0,"Drama,Romance,War",Michael Curtiz,102
+The Leopard (re-release),2004-08-13,100.0,79.0,"Drama,History",Luchino Visconti,187
+Singin' in the Rain,1952-04-11,99.0,87.0,"Comedy,Musical,Romance","Stanley Donen,Gene Kelly",103
+Touch of Evil,1958-02-01,99.0,75.0,"Crime,Drama,Film-Noir,Thriller",Orson Welles,95
+Playtime,1973-06-27,99.0,77.0,Comedy,Jacques Tati,155
+City Lights,1931-03-07,99.0,87.0,"Comedy,Drama,Romance",Charles Chaplin,87
+The Rules of the Game,1950-04-08,99.0,78.0,"Comedy,Drama",Jean Renoir,110
+Pinocchio,1940-02-23,99.0,81.0,"Animation,Adventure,Comedy,Family,Fantasy,Musical","Norman Ferguson,T. Hee,Wilfred Jackson,Jack Kinney,Hamilton Luske,Bill Roberts,Ben Sharpsteen",88
+Moonlight,2016-10-21,99.0,71.0,Drama,Barry Jenkins,111
+Intolerance,1916-09-05,99.0,64.0,"Drama,History",D.W. Griffith,197
+Army of Shadows,2006-04-28,99.0,74.0,"Drama,War",Jean-Pierre Melville,145
+The Passion of Joan of Arc,1929-03-28,98.0,86.0,"Biography,Drama,History",Carl Theodor Dreyer,110
+All About Eve,1950-10-27,98.0,86.0,Drama,Joseph L. Mankiewicz,138
+North by Northwest,1959-08-06,98.0,84.0,"Adventure,Drama,Mystery,Thriller",Alfred Hitchcock,136
+Hoop Dreams,1994-10-14,98.0,80.0,"Documentary,Drama,Sport",Steve James,170
+Some Like It Hot,1959-03-29,98.0,83.0,"Comedy,Music,Romance",Billy Wilder,121
+Rashomon,1951-12-26,98.0,84.0,"Crime,Drama,Mystery",Akira Kurosawa,88
+The Treasure of the Sierra Madre,1948-01-24,98.0,83.0,"Adventure,Drama,Western",John Huston,126
+The Lady Vanishes,1938-11-01,98.0,79.0,"Crime,Drama,Mystery,Thriller",Alfred Hitchcock,96
+Pépé le Moko (re-release),2002-03-01,98.0,59.0,"Crime,Drama,Romance",Julien Duvivier,94
+Metropolis (re-release),2002-07-12,98.0,87.0,"Drama,Sci-Fi",Fritz Lang,153
+Pan's Labyrinth,2006-12-29,98.0,87.0,"Drama,Fantasy,War",Guillermo del Toro,118
+The Wild Bunch,1969-06-18,98.0,77.0,"Action,Adventure,Drama,Western",Sam Peckinpah,135
+Seven Samurai,1956-11-19,98.0,89.0,"Action,Drama",Akira Kurosawa,207
+Au hasard Balthazar,1966-09-16,98.0,71.0,Drama,Robert Bresson,95
+The Third Man,1949-09-03,97.0,84.0,"Drama,Film-Noir,Mystery,Thriller",Carol Reed,104
+Gone with the Wind,1940-01-17,97.0,82.0,"Drama,Romance,War",Victor Fleming,238
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29,97.0,88.0,"Comedy,War",Stanley Kubrick,95
+Ran,1985-12-20,97.0,86.0,"Action,Drama,War",Akira Kurosawa,162
+Jules and Jim,1962-04-23,97.0,70.0,"Drama,Romance",François Truffaut,105
+My Left Foot,1989-11-10,97.0,83.0,"Biography,Drama",Jim Sheridan,103
+The Night of the Hunter,1955-07-27,97.0,81.0,"Crime,Drama,Film-Noir,Thriller",Charles Laughton,92
+The Maltese Falcon,1941-10-18,97.0,82.0,"Crime,Drama,Film-Noir,Mystery,Romance",John Huston,100
+Psycho,1960-09-08,97.0,89.0,"Horror,Mystery,Thriller",Alfred Hitchcock,109
+Rififi (re-release),2000-07-21,97.0,83.0,"Crime,Drama,Thriller",Jules Dassin,122
+"4 Months, 3 Weeks and 2 Days",2008-01-23,97.0,80.0,Drama,Cristian Mungiu,113
+"Quo Vadis, Aida?",2021-03-05,97.0,84.0,"Drama,History,War",Jasmila Zbanic,101
+American Graffiti,1973-08-11,97.0,73.0,"Comedy,Drama",George Lucas,110
+12 Angry Men,1957-04-01,97.0,92.0,"Crime,Drama",Sidney Lumet,96
+A Streetcar Named Desire,1951-09-19,97.0,82.0,Drama,Elia Kazan,122
+Battleship Potemkin,1926-12-05,97.0,82.0,"Drama,History,Thriller,War",Sergei Eisenstein,75
+Parasite,2019-10-11,97.0,89.0,"Drama,Thriller",Bong Joon Ho,132
+Gravity,2013-10-04,96.0,77.0,"Drama,Sci-Fi,Thriller",Alfonso Cuarón,91
+Fantasia,1940-11-13,96.0,81.0,"Animation,Family,Fantasy,Music,Musical","James Algar,Wilfred Jackson,Samuel Armstrong,Paul Satterfield,Bill Roberts,Hamilton Luske,Ben Sharpsteen,T. Hee,Jim Handley,David Hand,Norman Ferguson,Ford Beebe Jr.",125
+Roma,2018-11-21,96.0,76.0,Drama,Alfonso Cuarón,135
+"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",2021-07-02,96.0,75.0,"Documentary,History,Music",Questlove,117
+Toy Story,1995-11-22,96.0,89.0,"Animation,Adventure,Comedy,Family,Fantasy",John Lasseter,81
+Dumbo,1941-10-31,96.0,76.0,"Animation,Adventure,Drama,Family,Fantasy,Musical","Samuel Armstrong,Norman Ferguson,Wilfred Jackson,Jack Kinney,Bill Roberts,Ben Sharpsteen",64
+The Grapes of Wrath,1940-03-15,96.0,81.0,Drama,John Ford,129
+Rosemary's Baby,1968-06-12,96.0,82.0,"Drama,Horror",Roman Polanski,137
+Ratatouille,2007-06-29,96.0,86.0,"Animation,Adventure,Comedy,Family,Fantasy","Brad Bird,Jan Pinkava",111
+Sansho the Bailiff,1955-01-01,96.0,75.0,Drama,Kenji Mizoguchi,124
+The Philadelphia Story,1940-12-05,96.0,73.0,"Comedy,Romance",George Cukor,112
+Killer of Sheep,2007-03-30,96.0,77.0,Drama,Charles Burnett,80
+Nashville,1975-06-11,96.0,80.0,"Comedy,Drama,Music",Robert Altman,160
+Red River,1948-09-17,96.0,77.0,"Drama,Western","Howard Hawks,Arthur Rosson",133
+A Hard Day's Night,1964-08-11,96.0,85.0,"Comedy,Musical",Richard Lester,87
+The Shop Around the Corner,1940-01-12,96.0,79.0,"Comedy,Drama,Romance",Ernst Lubitsch,99
+Mean Streets,1973-10-14,96.0,75.0,"Crime,Drama,Thriller",Martin Scorsese,112
+Children of Paradise (1945),2012-03-09,96.0,79.0,"Drama,Romance",Marcel Carné,190
+Snow White and the Seven Dwarfs,1938-02-04,96.0,80.0,"Animation,Adventure,Family,Fantasy,Musical,Romance","William Cottrell,David Hand,Wilfred Jackson,Larry Morey,Perce Pearce,Ben Sharpsteen",83
+The Lady Eve,1941-03-21,96.0,75.0,"Comedy,Romance",Preston Sturges,94
+The Battle of Algiers,2004-01-09,96.0,84.0,"Drama,War",Gillo Pontecorvo,121
+12 Years a Slave,2013-10-18,96.0,80.0,"Biography,Drama,History",Steve McQueen,134
+Manchester by the Sea,2016-11-18,96.0,82.0,Drama,Kenneth Lonergan,137
+Man with a Movie Camera,1929-05-12,96.0,68.0,Documentary,Dziga Vertov,68
+Spirited Away,2002-09-20,96.0,90.0,"Animation,Adventure,Family,Fantasy,Mystery",Hayao Miyazaki,125
+Do Not Expect Too Much From the End of the World,2024-03-22,95.0,67.0,"Comedy,Drama",Radu Jude,163
+Amour,2012-12-19,95.0,81.0,Drama,Michael Haneke,127
+Aftersun,2022-10-21,95.0,80.0,Drama,Charlotte Wells,98
+Rocks,2021-02-01,95.0,68.0,Drama,Sarah Gavron,93
+Zero Dark Thirty,2012-12-19,95.0,70.0,"Drama,History,Thriller",Kathryn Bigelow,157
+Beauty and the Beast,1991-11-22,95.0,84.0,"Animation,Family,Fantasy,Musical,Romance","Gary Trousdale,Kirk Wise",84
+Anatomy of a Murder,1959-07-01,95.0,82.0,"Drama,Mystery",Otto Preminger,160
+Pulp Fiction,1994-10-14,95.0,90.0,"Crime,Drama",Quentin Tarantino,154
+A Separation,2011-12-30,95.0,89.0,Drama,Asghar Farhadi,123
+Double Indemnity,1944-07-06,95.0,86.0,"Crime,Drama,Film-Noir,Mystery,Thriller",Billy Wilder,107
+Small Axe: Lovers Rock,2020-11-27,95.0,60.0,"Drama,History",Steve McQueen,68
+Woodstock,1970-03-26,95.0,85.0,"Documentary,History,Music",Michael Wadleigh,184
+I Am Not Your Negro,2016-12-09,95.0,54.0,"Documentary,History",Raoul Peck,93
+Portrait of a Lady on Fire,2019-12-06,95.0,85.0,"Drama,Romance",Céline Sciamma,122
+My Fair Lady,1964-12-25,95.0,77.0,"Drama,Family,Musical,Romance",George Cukor,170
+The Social Network,2010-10-01,95.0,82.0,"Biography,Drama",David Fincher,120
+Don't Look Now,1973-12-09,95.0,68.0,"Drama,Horror,Mystery,Thriller",Nicolas Roeg,110
+The Bride of Frankenstein,1935-05-06,95.0,78.0,"Drama,Horror,Sci-Fi",James Whale,75
+Schindler's List,1993-12-15,95.0,92.0,"Biography,Drama,History",Steven Spielberg,195
+WALL-E,2008-06-27,95.0,89.0,"Animation,Adventure,Family,Sci-Fi",Andrew Stanton,98
+Sunrise,1927-11-04,95.0,72.0,"Drama,Romance",F.W. Murnau,94
+Collective,2020-11-20,95.0,76.0,"Documentary,Crime",Alexander Nanau,109
+The Hurt Locker,2009-06-26,95.0,74.0,"Drama,Thriller,War",Kathryn Bigelow,131
+La Dolce Vita,1961-04-19,95.0,84.0,"Comedy,Drama",Federico Fellini,174
+"Crouching Tiger, Hidden Dragon",2000-12-08,94.0,81.0,"Action,Adventure,Drama,Fantasy,Romance",Ang Lee,120
+The Wild Child,1970-09-11,94.0,78.0,"Biography,Drama,History",François Truffaut,83
+Stop Making Sense,1984-10-18,94.0,88.0,"Documentary,Music",Jonathan Demme,88
+Shadow of a Doubt,1943-01-15,94.0,79.0,"Drama,Film-Noir,Mystery,Thriller",Alfred Hitchcock,108
+Inside Out,2015-06-19,94.0,86.0,"Animation,Adventure,Comedy,Drama,Family,Fantasy","Pete Docter,Ronnie Del Carmen",94
+The Man Who Shot Liberty Valance,1962-04-22,94.0,85.0,"Drama,Western",John Ford,123
+Amazing Grace,2018-11-23,94.0,82.0,"Documentary,Music","Alan Elliott,Sydney Pollack",87
+Dunkirk,2017-07-21,94.0,82.0,"Action,Drama,History,Thriller,War",Christopher Nolan,106
+Before Midnight,2013-05-24,94.0,83.0,"Drama,Romance",Richard Linklater,109
+Carol,2015-11-20,94.0,79.0,"Drama,Romance",Todd Haynes,118
+Yi Yi,2000-10-06,94.0,86.0,"Drama,Romance",Edward Yang,173
+The Manchurian Candidate,1962-10-24,94.0,79.0,"Drama,Thriller",John Frankenheimer,126
+Mr. Turner,2014-12-19,94.0,69.0,"Biography,Drama,History",Mike Leigh,150
+The Irishman,2019-11-01,94.0,81.0,"Biography,Crime,Drama,History,Thriller",Martin Scorsese,209
+"Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles",1978-10-04,94.0,68.0,Drama,Chantal Akerman,202
+Grave of the Fireflies (1988),1989-07-26,94.0,89.0,"Animation,Drama,War",Isao Takahata,89
+Marriage Story,2019-11-06,94.0,81.0,"Drama,Romance",Noah Baumbach,137
+The French Connection,1971-10-07,94.0,80.0,"Action,Crime,Drama,Thriller",William Friedkin,104
+Inside the Yellow Cocoon Shell,2024-01-19,94.0,75.0,Drama,Thien An Pham,178
+Taxi Driver,1976-02-07,94.0,87.0,"Crime,Drama",Martin Scorsese,114
+Elevator to the Gallows,1961-06-10,94.0,79.0,"Crime,Drama,Thriller",Louis Malle,91
+Sideways,2004-10-22,94.0,77.0,"Comedy,Drama,Romance",Alexander Payne,126
+Sunset Boulevard,1950-08-10,94.0,85.0,"Drama,Film-Noir",Billy Wilder,110
+The Apartment,1960-06-15,94.0,87.0,"Comedy,Drama,Romance",Billy Wilder,125
+Carlos,2010-10-15,94.0,79.0,"Biography,Crime,Drama,Thriller",Olivier Assayas,325
+45 Years,2015-12-23,94.0,73.0,"Drama,Romance",Andrew Haigh,95
+Call Me by Your Name,2017-11-24,94.0,79.0,"Drama,Romance",Luca Guadagnino,132
+Trenque Lauquen Parte II,2023-04-21,94.0,73.0,"Drama,Mystery,Thriller",Laura Citarella,133
+Trenque Lauquen Parte I,2023-04-21,94.0,81.0,"Drama,Mystery,Thriller",Laura Citarella,129
+Days of Heaven,1978-09-13,94.0,80.0,"Drama,Romance",Terrence Malick,94
+Past Lives,2023-06-02,94.0,78.0,"Drama,Romance",Celine Song,106
+Chimes at Midnight,1967-03-17,94.0,88.0,"Comedy,Drama,History,War",Orson Welles,119
+The Lord of the Rings: The Return of the King,2003-12-17,94.0,94.0,"Adventure,Drama,Fantasy",Peter Jackson,201
+Badlands,1973-10-15,94.0,77.0,"Action,Crime,Drama",Terrence Malick,94
+The Servant,1964-03-16,94.0,79.0,Drama,Joseph Losey,116
+The Searchers,1956-05-26,94.0,76.0,"Adventure,Drama,Western",John Ford,119
+La La Land,2016-12-09,94.0,84.0,"Comedy,Drama,Music,Musical,Romance",Damien Chazelle,128
+Meet Me in St. Louis,1945-01-01,94.0,74.0,"Comedy,Drama,Family,Musical,Romance",Vincente Minnelli,113
+Apocalypse Now,1979-08-15,94.0,87.0,"Drama,Mystery,War",Francis Ford Coppola,153
+Faces Places,2017-10-06,94.0,72.0,"Documentary,Adventure","JR,Agnès Varda",89
+We Were Here,2011-09-09,94.0,64.0,"Documentary,Biography,History,News","David Weissman,Bill Weber",90
+The Gunfighter,1950-06-23,94.0,69.0,Western,Henry King,85
+The Decline of Western Civilization,1981-07-05,93.0,78.0,"Documentary,History,Music",Penelope Spheeris,100
+Yojimbo,1961-09-13,93.0,83.0,"Action,Drama,Thriller",Akira Kurosawa,110
+TÁR,2022-10-07,93.0,75.0,"Drama,Music",Todd Field,158
+Werckmeister Harmonies,2001-10-10,93.0,82.0,"Drama,Mystery","Béla Tarr,Ágnes Hranitzky",145
+Top Hat,1935-09-06,93.0,68.0,"Comedy,Musical,Romance",Mark Sandrich,101
+Brother's Keeper,1992-09-09,93.0,78.0,"Documentary,Crime,Mystery","Joe Berlinger,Bruce Sinofsky",104
+Sankofa,1993-05-28,93.0,53.0,Drama,Haile Gerima,125
+Crumb,1995-04-28,93.0,84.0,"Documentary,Biography,Comedy,Drama",Terry Zwigoff,119
+No Bears,2022-12-23,93.0,80.0,"Drama,Romance",Jafar Panahi,106
+8½,1963-06-24,93.0,81.0,Drama,Federico Fellini,138
+Spotlight,2015-11-06,93.0,81.0,"Biography,Crime,Drama",Tom McCarthy,128
+Solaris (1972),1976-10-06,93.0,79.0,"Drama,Mystery,Sci-Fi",Andrei Tarkovsky,167
+The 39 Steps,1935-08-01,93.0,79.0,"Crime,Mystery,Thriller",Alfred Hitchcock,86
+Toni Erdmann,2016-12-25,93.0,71.0,"Comedy,Drama",Maren Ade,162
+The Discreet Charm of the Bourgeoisie,1972-10-22,93.0,83.0,"Comedy,Drama,Fantasy",Luis Buñuel,102
+No Other Land,2024-11-01,93.0,74.0,Documentary,"Yuval Abraham,Basel Adra,Hamdan Ballal,Rachel Szor",92
+The Last Picture Show,1971-10-22,93.0,82.0,"Drama,Romance",Peter Bogdanovich,118
+Hard to Be a God,2015-01-30,93.0,53.0,"Drama,Sci-Fi",Aleksey German,170
+Do the Right Thing,1989-06-30,93.0,82.0,"Comedy,Drama",Spike Lee,120
+Sita Sings the Blues,2009-12-25,93.0,73.0,"Animation,Comedy,Fantasy,Musical,Romance",Nina Paley,82
+The Band Wagon,1953-08-07,93.0,75.0,"Comedy,Musical,Romance",Vincente Minnelli,112
+Late Spring (1949),1972-07-21,93.0,79.0,"Comedy,Drama",Yasujirô Ozu,108
+Inside Llewyn Davis,2013-12-06,93.0,78.0,"Drama,Music","Ethan Coen,Joel Coen",104
+McCabe & Mrs. Miller,1971-06-24,93.0,76.0,"Drama,Western",Robert Altman,120
+Our Body,2023-08-04,93.0,46.0,Documentary,Claire Simon,168
+Band of Outsiders,1966-03-15,93.0,75.0,"Comedy,Crime,Drama",Jean-Luc Godard,95
+The Best Years of Our Lives,1946-12-25,93.0,81.0,"Drama,Romance,War",William Wyler,170
+The Magnificent Ambersons,1942-07-10,93.0,80.0,"Drama,Romance","Orson Welles,Fred Fleck,Robert Wise",88
+Reversal of Fortune,1990-10-17,93.0,79.0,"Biography,Drama,Mystery",Barbet Schroeder,111
+Duck Soup,1933-11-17,93.0,75.0,"Comedy,Musical",Leo McCarey,68
+Shoplifters,2018-11-23,93.0,85.0,"Crime,Drama,Thriller",Hirokazu Koreeda,121
+Shoah: Four Sisters,2018-11-14,93.0,0.0,"Documentary,History",Claude Lanzmann,273
+David Byrne’s American Utopia,2020-10-17,93.0,75.0,"Documentary,Music,Musical",Spike Lee,105
+Rio Bravo,1959-04-04,93.0,82.0,Western,Howard Hawks,141
+All We Imagine as Light,2024-11-15,93.0,72.0,"Drama,Romance",Payal Kapadia,110
+Masculine Feminine,1966-09-19,93.0,84.0,"Drama,Romance",Jean-Luc Godard,103
+Stagecoach,1939-03-03,93.0,74.0,"Adventure,Drama,Western",John Ford,96
+Uncut Gems,2019-12-13,93.0,72.0,"Crime,Drama,Thriller","Benny Safdie,Josh Safdie",135
+Sherpa,2015-10-02,93.0,78.0,Documentary,Jennifer Peedom,96
+Days of Being Wild (re-release),2004-11-19,93.0,81.0,"Crime,Drama,Romance",Kar-Wai Wong,94
+Tristana (re-release),2013-02-22,93.0,81.0,Drama,Luis Buñuel,95
+Petite Maman,2021-12-03,93.0,79.0,"Drama,Fantasy",Céline Sciamma,72
+Lady Bird,2017-11-03,93.0,77.0,"Comedy,Drama",Greta Gerwig,94
+There Will Be Blood,2007-12-26,93.0,88.0,Drama,Paul Thomas Anderson,158
+The Life and Death of Colonel Blimp (1945),1945-05-04,93.0,72.0,"Drama,Romance,War","Michael Powell,Emeric Pressburger",163
+Beauty and the Beast (re-release),2002-08-16,92.0,74.0,"Drama,Fantasy,Romance","Jean Cocteau,René Clément",93
+Brief Encounter,1946-08-24,92.0,77.0,"Drama,Romance",David Lean,86
+Cool Hand Luke,1967-11-01,92.0,83.0,"Crime,Drama",Stuart Rosenberg,126
+De Humani Corporis Fabrica,2023-04-14,92.0,63.0,Documentary,"Lucien Castaing-Taylor,Verena Paravel",118
+Maborosi,1997-03-21,92.0,79.0,Drama,Hirokazu Koreeda,110
+Little Women,1933-11-24,92.0,59.0,"Drama,Family,Romance,War",George Cukor,115
+The Act of Killing,2013-07-19,92.0,84.0,"Documentary,Biography,Crime,History,War","Joshua Oppenheimer,Christine Cynn,Anonymous",115
+Days,2021-08-13,92.0,52.0,Drama,Ming-liang Tsai,127
+Frenzy,1972-06-21,92.0,75.0,"Drama,Thriller",Alfred Hitchcock,116
+The Souvenir,2019-05-17,92.0,64.0,"Drama,Romance",Joanna Hogg,120
+This Is Spinal Tap,1984-03-02,92.0,80.0,"Comedy,Music",Rob Reiner,82
+Goodfellas,1990-09-01,92.0,90.0,"Biography,Crime,Drama",Martin Scorsese,146
+The Zone of Interest,2023-12-15,92.0,76.0,"Drama,History,War",Jonathan Glazer,105
+Alphaville,1965-10-25,92.0,81.0,"Comedy,Drama,Mystery,Sci-Fi,Thriller",Jean-Luc Godard,99
+The Look of Silence,2015-07-17,92.0,83.0,"Documentary,Biography,History",Joshua Oppenheimer,103
+Apocalypse Now: Final Cut,2019-08-15,92.0,88.0,"Drama,Mystery,War",Francis Ford Coppola,182
+King Kong,1933-04-07,92.0,76.0,"Adventure,Horror","Merian C. Cooper,Ernest B. Schoedsack",100
+Umberto D (re-release),2002-02-15,92.0,84.0,Drama,Vittorio De Sica,89
+Secrets & Lies,1996-09-27,92.0,85.0,"Comedy,Drama",Mike Leigh,136
+Apocalypse Now Redux,2001-08-03,92.0,87.0,,,153
+Never Rarely Sometimes Always,2020-03-13,92.0,70.0,Drama,Eliza Hittman,101
+Annie Hall,1977-04-20,92.0,71.0,"Comedy,Romance",Woody Allen,93
+The Lord of the Rings: The Fellowship of the Ring,2001-12-19,92.0,93.0,"Adventure,Drama,Fantasy",Peter Jackson,178
+Tower,2016-10-12,92.0,79.0,"Documentary,Animation,Crime",Keith Maitland,96
+Seeds,0000-00-00,92.0,0.0,Documentary,Brittany Shyne,123
+The Diving Bell and the Butterfly,2007-11-30,92.0,84.0,"Biography,Drama",Julian Schnabel,112
+Memoria,2021-12-26,92.0,65.0,"Drama,Mystery,Sci-Fi",Apichatpong Weerasethakul,136
+Invasion of the Body Snatchers,1956-02-05,92.0,81.0,"Drama,Horror,Sci-Fi",Don Siegel,80
+Close-Up,1999-12-31,92.0,90.0,"Biography,Crime,Drama",Abbas Kiarostami,98
+Ride the High Country,1962-05-09,92.0,85.0,"Drama,Western",Sam Peckinpah,94
+The Wizard of Oz,1939-08-25,92.0,84.0,"Adventure,Family,Fantasy,Musical","Victor Fleming,King Vidor",102
+35 Shots of Rum,2009-09-16,92.0,70.0,Drama,Claire Denis,100
+E.T. The Extra-Terrestrial,1982-06-11,92.0,82.0,"Adventure,Family,Sci-Fi",Steven Spielberg,115
+Ikiru,1956-03-25,92.0,86.0,Drama,Akira Kurosawa,143
+One More Time with Feeling,2016-09-08,92.0,87.0,"Documentary,Music",Andrew Dominik,112
+Quiz Show,1994-09-14,92.0,78.0,"Biography,Drama,History",Robert Redford,133
+Leviathan,2014-12-25,92.0,73.0,"Crime,Drama",Andrey Zvyagintsev,140
+Menus Plaisirs - Les Troisgros,2023-11-22,92.0,83.0,Documentary,Frederick Wiseman,240
+Le Cercle Rouge (1970),2003-01-10,92.0,81.0,"Crime,Drama,Thriller",Jean-Pierre Melville,140
+Toy Story 3,2010-06-18,92.0,88.0,"Animation,Adventure,Comedy,Family,Fantasy",Lee Unkrich,103
+Here,2024-02-09,92.0,67.0,Drama,Bas Devos,82
+Chinatown,1974-06-20,92.0,87.0,"Drama,Mystery,Thriller",Roman Polanski,130
+No Country for Old Men,2007-11-09,92.0,85.0,"Crime,Drama,Thriller","Ethan Coen,Joel Coen",122
+The Florida Project,2017-10-06,92.0,74.0,Drama,Sean Baker,111
+Timbuktu,2015-01-28,92.0,73.0,"Drama,War",Abderrahmane Sissako,97
+The Class,2008-12-19,92.0,78.0,Drama,Laurent Cantet,128
+Platoon,1986-12-19,92.0,81.0,"Drama,War",Oliver Stone,120
+Lost in Translation,2003-09-12,91.0,80.0,"Comedy,Drama",Sofia Coppola,102
+Atanarjuat: The Fast Runner,2002-06-07,91.0,83.0,Drama,Zacharias Kunuk,172
+Saint Omer,2023-01-13,91.0,54.0,Drama,Alice Diop,122
+A Summer's Tale,2014-06-20,91.0,79.0,"Comedy,Drama,Romance",Éric Rohmer,113
+L.A. Confidential,1997-09-19,91.0,85.0,"Crime,Drama,Mystery,Thriller",Curtis Hanson,138
+Time,2020-10-09,91.0,52.0,"Documentary,Biography",Garrett Bradley,81
+Gavagai,2018-08-03,91.0,74.0,Drama,Rob Tregenza,90
+Three Colors: White,1994-06-10,91.0,80.0,"Comedy,Drama,Romance",Krzysztof Kieslowski,91
+A Bread Factory Part One: For the Sake of Gold,2018-10-26,91.0,77.0,"Comedy,Drama",Patrick Wang,122
+The Boy and the Heron,2023-11-22,91.0,78.0,"Animation,Adventure,Drama,Fantasy",Hayao Miyazaki,124
+Nickel Boys,2024-12-13,91.0,66.0,Drama,RaMell Ross,140
+Stories We Tell,2013-05-10,91.0,79.0,Documentary,Sarah Polley,108
+Moolaadé,2004-10-15,91.0,89.0,Drama,Ousmane Sembene,124
+Drive My Car,2021-11-24,91.0,76.0,Drama,Ryûsuke Hamaguchi,179
+Burning,2018-10-26,91.0,77.0,"Drama,Mystery",Lee Chang-dong,148
+The Texas Chain Saw Massacre,1974-10-01,91.0,79.0,Horror,Tobe Hooper,83
+The Man Who Would Be King,1975-12-16,91.0,75.0,"Adventure,Drama,War",John Huston,129
+EX LIBRIS: The New York Public Library,2017-09-13,91.0,77.0,Documentary,Frederick Wiseman,197
+All Quiet on the Western Front,1930-08-24,91.0,83.0,"Drama,War",Lewis Milestone,136
+Flee,2021-12-03,91.0,80.0,"Documentary,Animation,Biography,Drama",Jonas Poher Rasmussen,89
+The Triplets of Belleville,2003-11-26,91.0,77.0,"Animation,Adventure,Comedy,Drama,Music,Sport",Sylvain Chomet,78
+Monty Python and the Holy Grail,1975-04-14,91.0,85.0,"Adventure,Comedy,Fantasy","Terry Gilliam,Terry Jones",91
+Soundtrack to a Coup d'Etat,2024-11-01,91.0,55.0,"Documentary,Music",Johan Grimonprez,150
+The African Queen,1952-03-21,91.0,72.0,"Adventure,Drama,Romance,War",John Huston,105
+A Bread Factory Part Two: Walk With Me a While,2018-10-26,91.0,83.0,"Comedy,Drama",Patrick Wang,120
+I Am Cuba,1995-12-01,91.0,84.0,Drama,Mikhail Kalatozov,141
+Little Women,2019-12-25,91.0,75.0,"Drama,Romance",Greta Gerwig,135
+Frankenstein,1931-11-21,91.0,77.0,"Drama,Horror,Sci-Fi,Thriller",James Whale,70
+The Killing,1956-06-06,91.0,75.0,"Crime,Drama,Film-Noir,Thriller",Stanley Kubrick,84
+Swing Time,1936-08-28,91.0,62.0,"Comedy,Musical,Romance",George Stevens,103
+Breaking Away,1979-07-20,91.0,82.0,"Comedy,Drama,Sport",Peter Yates,101
+On the Waterfront,1954-07-28,91.0,84.0,"Crime,Drama,Thriller",Elia Kazan,108
+Ryuichi Sakamoto | Opus,2024-03-15,91.0,77.0,"Documentary,Music",Neo Sora,103
+Jafar Panahi's Taxi,2015-10-02,91.0,70.0,"Comedy,Drama",Jafar Panahi,82
+Ida,2014-05-02,91.0,75.0,Drama,Pawel Pawlikowski,82
+All the Beauty and the Bloodshed,2022-11-23,91.0,78.0,"Documentary,History",Laura Poitras,113
+Beau Travail,2000-03-31,91.0,73.0,"Drama,War",Claire Denis,90
+Her,2013-12-18,91.0,85.0,"Drama,Romance,Sci-Fi",Spike Jonze,126
+Waltz with Bashir,2008-12-25,91.0,81.0,"Documentary,Animation,Biography,Drama,History,Mystery,War",Ari Folman,90
+Hit the Road,2022-04-22,91.0,72.0,"Comedy,Drama,Music",Panah Panahi,93
+Bringing Up Baby,1938-02-18,91.0,75.0,Comedy,Howard Hawks,102
+The Gatekeepers,2013-02-01,91.0,65.0,"Documentary,History,War",Dror Moreh,101
+Nostalgia for the Light,2011-03-18,91.0,86.0,Documentary,Patricio Guzmán,90
+Before Sunset,2004-07-02,91.0,87.0,"Drama,Romance",Richard Linklater,80
+La Chimera,2024-03-29,91.0,75.0,"Adventure,Comedy,Drama,Romance",Alice Rohrwacher,130
+The Worst Person in the World,2022-02-04,91.0,78.0,"Comedy,Drama,Romance",Joachim Trier,121
+David Copperfield,1935-01-18,91.0,66.0,"Adventure,Drama,Family,Romance",George Cukor,130
+Saving Private Ryan,1998-07-24,91.0,89.0,"Drama,War",Steven Spielberg,169
+The Ladykillers,1956-02-20,91.0,79.0,"Comedy,Crime",Alexander Mackendrick,91
+After Life,1999-05-12,91.0,72.0,"Drama,Fantasy",Hirokazu Koreeda,118
+Son of Saul,2015-12-18,91.0,73.0,"Drama,War",László Nemes,107
+Love Affair,1939-04-07,91.0,60.0,"Comedy,Drama,Romance",Leo McCarey,88
+The Favourite,2018-11-23,91.0,78.0,"Biography,Comedy,Drama,History",Yorgos Lanthimos,119
+The Sweet Hereafter,1997-11-21,91.0,78.0,Drama,Atom Egoyan,112
+The Right Stuff,1983-10-21,91.0,79.0,"Adventure,Biography,Drama,History",Philip Kaufman,193
+Bambi,1942-08-21,91.0,76.0,"Animation,Adventure,Drama,Family","James Algar,Samuel Armstrong,David Hand,Graham Heid,Norman Wright,Arthur Davis,Clyde Geronimi,Paul Satterfield,Bill Roberts",70
+"This Is Not a Burial, It's a Resurrection",2021-04-02,91.0,69.0,Drama,Lemohang Jeremiah Mosese,120
+Tótem,2024-01-26,91.0,74.0,Drama,Lila Avilés,95
+Young Mr. Lincoln,1939-06-09,91.0,80.0,"Biography,Drama",John Ford,100
+Repulsion (re-release),2006-04-21,91.0,76.0,"Drama,Horror,Thriller",Roman Polanski,105
+An Autumn Afternoon,1964-05-20,91.0,78.0,Drama,Yasujirô Ozu,113
+They Shall Not Grow Old,2018-12-17,91.0,86.0,"Documentary,History,War",Peter Jackson,99
+Anora,2024-10-18,91.0,65.0,"Comedy,Drama,Romance",Sean Baker,139
+First Cow,2020-03-06,90.0,70.0,"Drama,Western",Kelly Reichardt,122
+I Called Him Morgan,2017-03-24,90.0,65.0,"Documentary,Drama,History,Music",Kasper Collin,92
+Great Expectations,1947-05-22,90.0,70.0,"Adventure,Drama,Mystery,Romance",David Lean,118
+The Crying Game,1992-11-25,90.0,76.0,"Crime,Drama,Romance,Thriller",Neil Jordan,112
+32 Sounds,2023-04-28,90.0,0.0,Documentary,Sam Green,97
+Mad Max: Fury Road,2015-05-15,90.0,85.0,"Action,Adventure,Sci-Fi,Thriller",George Miller,120
+Le Samouraï,1972-07-12,90.0,76.0,"Crime,Drama,Thriller",Jean-Pierre Melville,105
+Halloween,1978-10-25,90.0,84.0,"Horror,Thriller",John Carpenter,91
+Ghost World,2001-07-20,90.0,76.0,"Comedy,Drama",Terry Zwigoff,111
+Topsy-Turvy,1999-12-17,90.0,73.0,"Biography,Comedy,Drama,History,Musical",Mike Leigh,160
+Finding Nemo,2003-05-30,90.0,86.0,"Animation,Adventure,Comedy,Family","Andrew Stanton,Lee Unkrich",100
+To Have and Have Not,1945-01-20,90.0,77.0,"Adventure,Comedy,Drama,Film-Noir,Romance,Thriller,War",Howard Hawks,100
+This Is Not a Film,2012-03-02,90.0,62.0,Documentary,"Mojtaba Mirtahmasb,Jafar Panahi",75
+Only Yesterday (1991),2016-01-01,90.0,83.0,"Animation,Drama,Romance",Isao Takahata,118
+The Brutalist,2024-12-20,90.0,66.0,Drama,Brady Corbet,214
+Ben-Hur,1959-11-18,90.0,87.0,"Adventure,Drama",William Wyler,212
+Licorice Pizza,2021-11-26,90.0,68.0,"Comedy,Drama,Romance",Paul Thomas Anderson,133
+Wojnarowicz,2021-03-19,90.0,40.0,Documentary,Chris McKim,105
+The Birds,1963-03-29,90.0,80.0,"Drama,Horror,Mystery,Romance",Alfred Hitchcock,119
+Gosford Park,2001-12-26,90.0,73.0,"Comedy,Drama,Mystery",Robert Altman,137
+Phantom Thread,2017-12-25,90.0,77.0,"Drama,Romance",Paul Thomas Anderson,130
+Monsieur Hulot's Holiday,1954-06-16,90.0,0.0,Comedy,Jacques Tati,83
+American Splendor,2003-08-15,90.0,75.0,"Biography,Comedy,Drama","Shari Springer Berman,Robert Pulcini",101
+Blue Is the Warmest Color,2013-10-25,90.0,77.0,"Drama,Romance",Abdellatif Kechiche,179
+"The Good, the Bad and the Ugly",1967-12-29,90.0,92.0,"Adventure,Drama,Western",Sergio Leone,161
+Bloody Sunday,2002-10-04,90.0,76.0,"Drama,History,War",Paul Greengrass,107
+My Voyage to Italy,2001-10-19,90.0,75.0,Documentary,Martin Scorsese,246
+Procession,2021-11-19,90.0,65.0,Documentary,Robert Greene,116
+Red Beard,1968-12-19,90.0,83.0,Drama,Akira Kurosawa,185
+Winter's Bone,2010-06-11,90.0,75.0,"Crime,Drama,Mystery,Thriller",Debra Granik,100
+The Queen,2006-09-30,90.0,76.0,"Biography,Drama",Stephen Frears,103
+Gett: The Trial of Viviane Amsalem,2015-02-13,90.0,73.0,Drama,"Ronit Elkabetz,Shlomi Elkabetz",115
+Samurai Rebellion,1967-12-01,90.0,81.0,Drama,Masaki Kobayashi,128
+All of Us Strangers,2023-12-22,90.0,81.0,"Drama,Romance",Andrew Haigh,105
+Sugarcane,2024-08-09,90.0,63.0,Documentary,"Emily Kassie,Julian Brave NoiseCat",111
+Small Axe: Mangrove,2020-11-20,90.0,80.0,"Drama,History",Steve McQueen,124
+The Incredibles,2004-11-05,90.0,87.0,"Animation,Action,Adventure,Family",Brad Bird,115
+Being John Malkovich,1999-10-29,90.0,83.0,"Comedy,Drama,Fantasy",Spike Jonze,112
+Green Border,2024-06-21,90.0,65.0,Drama,Agnieszka Holland,147
+A Prophet,2010-02-26,90.0,83.0,"Crime,Drama",Jacques Audiard,155
+Almost Famous,2000-09-13,90.0,84.0,"Adventure,Comedy,Drama,Music",Cameron Crowe,122
+The Age of Innocence,1993-09-17,90.0,78.0,"Drama,Romance",Martin Scorsese,139
+Persepolis,2007-12-25,90.0,82.0,"Animation,Biography,Drama,History,War","Vincent Paronnaud,Marjane Satrapi",96
+Star Wars: Episode IV - A New Hope,1977-05-25,90.0,89.0,"Action,Adventure,Fantasy,Sci-Fi",George Lucas,121
+The Passenger (re-release),2005-10-28,90.0,71.0,"Drama,Thriller",Michelangelo Antonioni,126
+The Souvenir: Part II,2021-10-29,90.0,62.0,"Drama,Romance",Joanna Hogg,107
+Paths of the Soul,2016-05-13,90.0,52.0,Drama,Yang Zhang,115
+It's Such a Beautiful Day,2012-10-05,90.0,88.0,"Animation,Comedy,Drama,Fantasy,Horror,Mystery,Sci-Fi,Thriller",Don Hertzfeldt,62
+My Perestroika,2011-03-23,90.0,73.0,"Documentary,Biography,Family,History,News",Robin Hessman,88
+Eyes Without a Face [re-release],2003-10-31,90.0,71.0,"Drama,Horror",Georges Franju,88
+Raging Bull,1980-11-14,90.0,85.0,"Biography,Drama,Sport",Martin Scorsese,129
+The Fits,2016-06-03,90.0,65.0,"Drama,Music",Anna Rose Holmer,72
+The Blue Angel,1930-12-05,90.0,74.0,"Drama,Music,Romance",Josef von Sternberg,124
+Paterson,2016-12-28,90.0,78.0,"Comedy,Drama,Romance",Jim Jarmusch,118
+The Tale,2018-05-26,90.0,72.0,"Biography,Drama,Mystery,Thriller",Jennifer Fox,114
+The Circus,1929-01-01,90.0,77.0,"Comedy,Family,Romance",Charles Chaplin,72
+Hannah and Her Sisters,1986-02-01,90.0,82.0,"Comedy,Drama",Woody Allen,103
+Big Men,2014-03-14,90.0,75.0,Documentary,Rachel Boynton,99
+Once,2007-05-16,90.0,80.0,"Drama,Music,Musical,Romance",John Carney,85
+The Truman Show,1998-06-05,90.0,87.0,"Comedy,Drama",Peter Weir,103
+Scarface,1932-04-09,90.0,73.0,"Action,Crime,Drama,Film-Noir,Thriller","Howard Hawks,Richard Rosson",93
+The Hustler,1961-09-25,90.0,82.0,"Drama,Sport",Robert Rossen,134
+The Godfather: Part II,1974-12-12,90.0,91.0,"Crime,Drama",Francis Ford Coppola,200
+Close Encounters of the Third Kind,1977-11-16,90.0,78.0,"Drama,Sci-Fi",Steven Spielberg,135
+American Hustle,2013-12-13,90.0,73.0,"Crime,Drama",David O. Russell,138
+The Deer Hunter,1978-12-08,90.0,81.0,"Drama,War",Michael Cimino,182
+High and Low,1963-11-26,90.0,84.0,"Crime,Drama,Mystery,Thriller",Akira Kurosawa,143
+Oppenheimer,2023-07-21,90.0,85.0,"Biography,Drama,History",Christopher Nolan,180
+Paths of Glory,1957-12-25,90.0,84.0,"Drama,War",Stanley Kubrick,88
+Cold War,2018-12-21,90.0,80.0,"Drama,Music,Romance",Pawel Pawlikowski,89
+United 93,2006-04-28,90.0,77.0,"Action,Drama,History,Thriller",Paul Greengrass,111
+Capturing the Friedmans,2003-05-30,90.0,74.0,"Documentary,Biography,Crime",Andrew Jarecki,107
+The Lavender Hill Mob,1951-10-15,90.0,68.0,"Comedy,Crime",Charles Crichton,78
+63 Up,2019-11-27,89.0,72.0,"Documentary,Biography",Michael Apted,180
+Eternal Sunshine of the Spotless Mind,2004-03-19,89.0,89.0,"Drama,Romance,Sci-Fi",Michel Gondry,108
+Investigation of a Citizen Above Suspicion [re-release],2003-04-04,89.0,75.0,"Crime,Drama",Elio Petri,112
+Treasure Island,1950-07-19,89.0,76.0,"Adventure,Drama,Family",Byron Haskin,96
+Force of Evil,1949-03-01,89.0,68.0,"Crime,Drama,Film-Noir",Abraham Polonsky,79
+White Heat,1949-09-03,89.0,76.0,"Action,Crime,Drama,Film-Noir",Raoul Walsh,114
+The Hidden Fortress,1960-10-06,89.0,83.0,"Adventure,Drama",Akira Kurosawa,126
+The Madness of King George,1994-12-28,89.0,78.0,"Biography,Comedy,Drama,History",Nicholas Hytner,104
+Phoenix,2015-07-24,89.0,78.0,"Drama,History,Music,Romance",Christian Petzold,98
+For Sama,2019-07-26,89.0,75.0,"Documentary,Biography,War","Waad Al-Kateab,Edward Watts",100
+Y Tu Mamá También,2002-03-15,89.0,79.0,Drama,Alfonso Cuarón,106
+Man on Wire,2008-07-25,89.0,82.0,"Documentary,Biography,Crime,History,Sport,Thriller",James Marsh,94
+Assault on Precinct 13,1976-11-05,89.0,75.0,"Action,Crime,Thriller",John Carpenter,91
+National Gallery,2014-11-05,89.0,83.0,Documentary,Frederick Wiseman,180
+Killers of the Flower Moon,2023-10-20,89.0,76.0,"Crime,Drama,History,Mystery,Romance,Western",Martin Scorsese,206
+"Two Days, One Night",2014-12-24,89.0,81.0,Drama,"Jean-Pierre Dardenne,Luc Dardenne",95
+Whiplash,2014-10-10,89.0,88.0,"Drama,Music",Damien Chazelle,107
+Searching for Bobby Fischer,1993-08-11,89.0,72.0,"Biography,Drama,Sport",Steven Zaillian,109
+House of Flying Daggers,2004-12-03,89.0,76.0,"Action,Adventure,Drama,Romance",Yimou Zhang,119
+Two-Lane Blacktop,1971-07-07,89.0,0.0,Drama,Monte Hellman,102
+The Lives of Others,2006-12-01,89.0,87.0,"Drama,Mystery,Thriller",Florian Henckel von Donnersmarck,137
+Fat City,1972-07-26,89.0,0.0,"Drama,Sport",John Huston,96
+The Overnighters,2014-10-10,89.0,71.0,"Documentary,Drama",Jesse Moss,102
+The Best of Youth,2005-03-02,89.0,83.0,"Drama,Romance",Marco Tullio Giordana,180
+Minding the Gap,2018-08-17,89.0,79.0,"Documentary,Sport",Bing Liu,93
+It's a Wonderful Life,1947-01-07,89.0,88.0,"Drama,Family,Fantasy,Romance",Frank Capra,130
+Goodbye Solo,2009-03-27,89.0,70.0,Drama,Ramin Bahrani,91
+The Quiet Girl,2022-12-16,89.0,82.0,Drama,Colm Bairéad,94
+Letters from Iwo Jima,2006-12-20,89.0,82.0,"Action,Adventure,Drama,History,War",Clint Eastwood,141
+The Seventh Continent (1989),0000-00-00,89.0,0.0,Drama,Michael Haneke,104
+Rebel Without a Cause,1955-10-29,89.0,75.0,Drama,Nicholas Ray,111
+Quai des Orfèvres [re-release],2002-10-25,89.0,75.0,"Crime,Drama",Henri-Georges Clouzot,106
+High Noon,1952-07-30,89.0,83.0,"Drama,Thriller,Western",Fred Zinnemann,85
+Piccadilly [re-release],2004-01-23,89.0,0.0,"Crime,Drama",Ewald André Dupont,92
+The Mother and the Whore,1973-10-05,89.0,0.0,"Drama,Romance",Jean Eustache,217
+Cameraperson,2016-09-09,89.0,62.0,"Documentary,Biography,History,News,War",Kirsten Johnson,102
+Dead Souls,2018-12-14,89.0,0.0,"Documentary,History",Wang Bing,495
+Dick Johnson Is Dead,2020-10-02,89.0,73.0,"Documentary,Biography,Drama",Kirsten Johnson,89
+Foreign Correspondent,1940-08-16,89.0,73.0,"Action,Drama,Romance,Thriller,War",Alfred Hitchcock,120
+Thelma & Louise,1991-05-24,89.0,76.0,"Adventure,Crime,Drama",Ridley Scott,130
+Gangs of Wasseypur,2015-01-16,89.0,86.0,"Action,Comedy,Crime,Drama,Thriller",Anurag Kashyap,321
+Still Walking,2009-08-21,89.0,83.0,Drama,Hirokazu Koreeda,114
+The Piano,1993-11-01,89.0,80.0,"Drama,Music,Romance",Jane Campion,121
+Of Mice and Men,1940-01-12,89.0,66.0,"Adventure,Drama",Lewis Milestone,106
+Zama,2018-04-13,89.0,72.0,"Drama,History",Lucrecia Martel,115
+Elle,2016-11-11,89.0,72.0,"Crime,Drama,Thriller",Paul Verhoeven,130
+Yankee Doodle Dandy,1942-06-06,89.0,73.0,"Biography,Drama,Family,Music,Musical",Michael Curtiz,126
+The Artist,2011-11-23,89.0,79.0,"Comedy,Drama,Romance",Michel Hazanavicius,100
+Night of the Living Dead,1968-10-01,89.0,81.0,"Horror,Thriller",George A. Romero,96
+Columbus,2017-08-04,89.0,73.0,Drama,Kogonada,100
+Alien,1979-06-22,89.0,89.0,"Horror,Sci-Fi",Ridley Scott,117
+Deep Red,1976-06-11,89.0,74.0,"Horror,Mystery,Thriller",Dario Argento,126
+Downhill Racer,1969-11-07,89.0,76.0,"Drama,Sport",Michael Ritchie,101
+Sullivan's Travels,1942-02-06,89.0,84.0,"Adventure,Comedy,Drama,Romance",Preston Sturges,90
+Mr. Bachmann and His Class,2022-02-20,89.0,85.0,Documentary,Maria Speth,217
+The Power of the Dog,2021-11-17,89.0,66.0,"Drama,Western",Jane Campion,125
+Western,2015-09-25,89.0,67.0,"Documentary,Western","Bill Ross IV,Turner Ross",92
+Gunda,2020-12-11,89.0,71.0,Documentary,Victor Kossakovsky,93
+Barry Lyndon,1975-12-18,89.0,85.0,"Adventure,Drama,War",Stanley Kubrick,184
+No End in Sight,2007-07-27,89.0,86.0,"Documentary,War",Charles Ferguson,102
+A Star Is Born,1954-10-16,89.0,83.0,"Drama,Musical,Romance",George Cukor,154
+Great Freedom,2022-03-04,89.0,63.0,Drama,Sebastian Meise,116
+Captain Blood,1935-12-28,89.0,75.0,"Action,Adventure,History,Romance",Michael Curtiz,119
+Uncertain,2017-03-10,89.0,85.0,"Documentary,Comedy,Drama","Ewan McNicol,Anna Sandilands",82
+The Tale of The Princess Kaguya,2014-10-17,89.0,85.0,"Animation,Drama,Family,Fantasy,Romance",Isao Takahata,137
+The Farewell,2019-07-12,89.0,82.0,"Comedy,Drama",Lulu Wang,100
+After Hours,1985-09-13,89.0,80.0,"Comedy,Crime,Drama,Thriller",Martin Scorsese,97
+Minari,2020-12-11,89.0,80.0,Drama,Lee Isaac Chung,115
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006-11-03,89.0,79.0,Comedy,Larry Charles,84
+When the Levees Broke: A Requiem in Four Acts,2006-08-21,89.0,67.0,Documentary,Spike Lee,255
+I'm Going Home,2002-08-14,88.0,78.0,"Comedy,Drama",Manoel de Oliveira,90
+Funny Girl,1968-09-19,88.0,76.0,"Biography,Comedy,Drama,Musical,Romance",William Wyler,151
+A Woman Under the Influence,1974-11-18,88.0,77.0,"Drama,Romance",John Cassavetes,155
+Dr. Jekyll and Mr. Hyde,1932-01-03,88.0,0.0,"Horror,Sci-Fi",Rouben Mamoulian,98
+Paddington 2,2018-01-12,88.0,82.0,"Adventure,Comedy,Family",Paul King,103
+Azor,2021-09-10,88.0,63.0,"Drama,Thriller",Andreas Fontana,100
+How Green Was My Valley,1941-10-28,88.0,61.0,"Drama,Family",John Ford,118
+Crime + Punishment,2018-08-24,88.0,0.0,Documentary,Stephen T. Maing,112
+Ear for Eye,2023-04-14,88.0,0.0,Drama,Debbie Tucker Green,88
+Wild Strawberries,1959-06-22,88.0,81.0,"Drama,Romance",Ingmar Bergman,91
+4 Little Girls,1997-07-09,88.0,74.0,"Documentary,History",Spike Lee,102
+The Lion King,1994-06-15,88.0,90.0,"Animation,Adventure,Drama,Family,Fantasy,Musical","Roger Allers,Rob Minkoff",89
+Democrats,2015-11-18,88.0,0.0,Documentary,Camilla Nielsson,100
+Richard III,1956-03-11,88.0,0.0,"Biography,Drama,History,War",Laurence Olivier,161
+Three Minutes: A Lengthening,2022-08-19,88.0,75.0,"Documentary,History,War",Bianca Stigter,69
+Long Day's Journey Into Night,2019-04-12,88.0,72.0,"Drama,Mystery,Romance",Bi Gan,138
+The Arbor,2011-04-27,88.0,76.0,"Documentary,Biography,Drama",Clio Barnard,94
+Show Boat,1936-05-17,88.0,0.0,"Comedy,Drama,Musical,Romance",James Whale,113
+The Conversation,1974-04-07,88.0,79.0,"Drama,Mystery,Thriller",Francis Ford Coppola,113
+Au Revoir les Enfants,1988-02-12,88.0,80.0,"Drama,War",Louis Malle,104
+Tootsie,1982-12-17,88.0,79.0,"Comedy,Drama,Romance",Sydney Pollack,116
+Overlord [re-release],2006-07-14,88.0,78.0,"Drama,History,War",Stuart Cooper,83
+A Film Unfinished,2010-08-18,88.0,72.0,"Documentary,Drama,History",Yael Hersonski,88
+Things to Come,2016-12-02,88.0,69.0,Drama,Mia Hansen-Løve,102
+The Grand Budapest Hotel,2014-03-07,88.0,84.0,"Adventure,Comedy,Crime",Wes Anderson,100
+April,2025-04-25,88.0,0.0,Drama,Dea Kulumbegashvili,134
+Winter Sleep,2014-12-19,88.0,83.0,Drama,Nuri Bilge Ceylan,196
+A Star Is Born,2018-10-05,88.0,84.0,"Drama,Music,Romance",Bradley Cooper,136
+Citizenfour,2014-10-24,88.0,77.0,"Documentary,Biography",Laura Poitras,114
+Time Out,2002-03-29,88.0,71.0,Drama,Laurent Cantet,134
+Away from Her,2007-05-04,88.0,79.0,Drama,Sarah Polley,110
+Hamilton,2020-07-03,88.0,77.0,"Biography,Drama,History,Musical",Thomas Kail,160
+Mafioso [re-release],2007-01-19,88.0,0.0,"Comedy,Crime,Drama",Alberto Lattuada,105
+The Seventh Seal,1958-10-13,88.0,85.0,"Drama,Fantasy",Ingmar Bergman,96
+The Father,2021-02-26,88.0,86.0,"Drama,Mystery",Florian Zeller,97
+Foxtrot,2017-12-08,88.0,72.0,Drama,Samuel Maoz,108
+Howards End,1992-03-13,88.0,81.0,"Drama,Romance",James Ivory,140
+The Little Mermaid,1989-11-17,88.0,74.0,"Animation,Adventure,Family,Fantasy,Musical,Romance","Ron Clements,John Musker",83
+City Hall,2020-10-28,88.0,62.0,Documentary,Frederick Wiseman,272
+A Serious Man,2009-10-02,88.0,73.0,"Comedy,Drama","Ethan Coen,Joel Coen",106
+Capote,2005-09-30,88.0,76.0,"Biography,Crime,Drama,History",Bennett Miller,114
+The Death of Stalin,2018-03-09,88.0,73.0,"Comedy,Drama,History",Armando Iannucci,107
+Miracle on 34th Street,1947-06-04,88.0,78.0,"Comedy,Drama,Family,Fantasy",George Seaton,96
+Strangers on a Train,1951-06-30,88.0,79.0,"Crime,Drama,Film-Noir,Thriller",Alfred Hitchcock,101
+"Sorry, Baby",0000-00-00,88.0,0.0,Drama,Eva Victor,103
+About Dry Grasses,2024-02-23,88.0,70.0,Drama,Nuri Bilge Ceylan,197
+Tulpan,2009-04-01,88.0,69.0,"Comedy,Drama",Sergei Dvortsevoy,100
+Hard Truths,2024-12-06,88.0,57.0,"Comedy,Drama",Mike Leigh,97
+Manuscripts Don't Burn,2014-06-13,88.0,64.0,"Drama,Thriller",Mohammad Rasoulof,125
+Anomalisa,2015-12-30,88.0,75.0,"Animation,Comedy,Drama,Romance","Duke Johnson,Charlie Kaufman",90
+"Three Billboards Outside Ebbing, Missouri",2017-11-10,88.0,78.0,"Comedy,Crime,Drama",Martin McDonagh,115
+Quest,2017-12-08,88.0,72.0,"Documentary,Family,Music",Jonathan Olshefski,104
+Mary Poppins,1964-08-27,88.0,81.0,"Comedy,Family,Fantasy,Musical",Robert Stevenson,139
+Mildred Pierce,1945-10-20,88.0,77.0,"Crime,Drama,Film-Noir,Mystery,Romance",Michael Curtiz,111
+Marooned in Iraq,2003-04-25,88.0,0.0,"Drama,War",Bahman Ghobadi,100
+To Kill a Mockingbird,1962-12-25,88.0,85.0,"Crime,Drama",Robert Mulligan,129
+Pictures of Ghosts,2024-01-26,88.0,78.0,Documentary,Kleber Mendonça Filho,93
